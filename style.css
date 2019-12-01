@@ -371,13 +371,13 @@ header {
 }
 
 h1 {
-  font-size: 60px;
+  font: 60px arial;
   color: white;
 }
 
 h2 {
   display: inline;
-  font-size: 50px;
+  font: 50px arial;
   color:white;
 }
 
