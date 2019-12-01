@@ -409,8 +409,8 @@ div {
 }
 
 img{
-  height: 259px;
-  width: 461px;
+  height: 285px;
+  width: 507px;
 }
 
 .img-content{
@@ -418,17 +418,34 @@ img{
   margin-left: 50px;
 }
 
+#felyne-gif-banner{
+  height: 100px;
+  width: 700px;
+}
+
+#img-header-left{
+  float: left;
+  height: 60px;
+  width: 60px;
+}
+
+#img-header-right{
+  float: right;
+  height: 60px;
+  width: 60px;
+}
+
 #img-ending-left{
   float: left;
-  height: 259px;
-  width: 300px;
+  height: 280px;
+  width: 280px;
   margin-right: 50px;
 }
 
 #img-ending-right{
   float: right;
-  height: 259px;
-  width: 300px;
+  height: 280px;
+  width: 280px;
   margin-left: 50px;
 }
 
