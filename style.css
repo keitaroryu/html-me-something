@@ -465,6 +465,13 @@ footer{
   color:white;
 }
 
+#mute{
+  border: 3px solid black;
+  background-color: #2a1408;
+  color:#c3c3c3;
+  margin-bottom: 10px;
+}
+
 #vid{
   width: 700px;
 }
