@@ -392,7 +392,7 @@ div {
   padding: 25px;
   width: auto;
   overflow-wrap: normal;
-  font-size: 23px;
+  font-size: 20px;
   color:#c3c3c3;
   text-align: left;
 }
@@ -463,4 +463,8 @@ footer{
   border-image: url(images/outerborder.png) 100 round;
   font-size: 15px;
   color:white;
+}
+
+#vid{
+  width: 700px;
 }
